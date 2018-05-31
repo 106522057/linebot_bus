@@ -16,5 +16,6 @@
 - <其他> ： 顯示功能表單  
 <img src="https://github.com/106522057/linebot_bus/raw/master/img/other.jpg" width="300" height="500" />  
 玩玩看：  
+
 ![QR CODE](https://github.com/106522057/linebot_bus/blob/master/img/qrcode.img)
 
