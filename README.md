@@ -12,6 +12,6 @@
 
 - <其他> ： 顯示功能表單
 
-玩玩看：
-
+玩玩看：  
+![QR CODE](https://github.com/106522057/linebot_bus/blob/master/img/qrcode.img)
 
