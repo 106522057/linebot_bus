@@ -11,7 +11,8 @@
 - free ： 顯示免費公車所有公車編號
 
 - highway ： 顯示國道客運所有客運編號
-
+<img src="https://github.com/106522057/linebot_bus/raw/master/img/city1.jpg" width="300" height="500" />  
+<img src="https://github.com/106522057/linebot_bus/raw/master/img/city2.jpg" width="300" height="500" />  
 - <其他> ： 顯示功能表單  
 <img src="https://github.com/106522057/linebot_bus/raw/master/img/other.jpg" width="300" height="500" />  
 玩玩看：  
